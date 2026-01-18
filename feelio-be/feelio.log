@@ -29,3 +29,6 @@
 2026-01-19 03:21:16,773 - main - INFO - Feelio Therapist initialized with 'Friendly Therapist' Persona
 2026-01-19 03:21:57,980 - main - INFO - Response generated (168 chars)
 2026-01-19 03:23:18,211 - main - INFO - Response generated (178 chars)
+2026-01-19 04:09:01,238 - main - INFO - Logging initialized at INFO level
+2026-01-19 04:09:01,513 - main - INFO - Feelio Therapist initialized with 'Friendly Therapist' Persona
+2026-01-19 04:09:26,492 - main - INFO - Response generated (134 chars)
