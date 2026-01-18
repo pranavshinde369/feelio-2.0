@@ -1,0 +1,31 @@
+2026-01-18 17:30:14,445 - __main__ - INFO - Starting Feelio (ENV: development)
+2026-01-18 17:30:14,602 - __main__ - INFO - --- Starting Feelio Therapist Session ---
+2026-01-18 17:30:33,420 - __main__ - INFO - Session ended with no conversation
+2026-01-18 17:31:24,462 - __main__ - INFO - Starting Feelio (ENV: development)
+2026-01-18 17:31:24,661 - __main__ - INFO - --- Starting Feelio Therapist Session ---
+2026-01-18 17:33:00,452 - __main__ - INFO - Session ended. Total turns: 3
+2026-01-19 01:27:28,489 - main - INFO - Response generated (168 chars)
+2026-01-19 01:27:59,844 - main - INFO - Response generated (300 chars)
+2026-01-19 02:06:35,971 - main - INFO - Response generated (356 chars)
+2026-01-19 02:09:04,737 - main - INFO - Response generated (291 chars)
+2026-01-19 02:09:50,840 - main - INFO - Response generated (300 chars)
+2026-01-19 02:11:22,243 - main - INFO - Response generated (263 chars)
+2026-01-19 02:11:44,981 - main - INFO - Response generated (343 chars)
+2026-01-19 02:12:14,596 - main - INFO - Response generated (282 chars)
+2026-01-19 02:12:40,532 - main - INFO - Response generated (893 chars)
+2026-01-19 02:14:08,267 - main - INFO - Response generated (262 chars)
+2026-01-19 02:18:59,104 - main - INFO - Response generated (351 chars)
+2026-01-19 02:19:35,811 - main - INFO - Response generated (330 chars)
+2026-01-19 02:31:35,860 - main - INFO - Logging initialized at INFO level
+2026-01-19 02:31:36,021 - main - INFO - Feelio Therapist initialized with 'Friendly Therapist' Persona
+2026-01-19 02:31:58,909 - main - INFO - Response generated (141 chars)
+2026-01-19 02:32:29,455 - main - INFO - Response generated (164 chars)
+2026-01-19 02:33:14,598 - main - INFO - Response generated (197 chars)
+2026-01-19 03:19:19,650 - main - INFO - Logging initialized at INFO level
+2026-01-19 03:19:19,941 - main - INFO - Feelio Therapist initialized with 'Friendly Therapist' Persona
+2026-01-19 03:20:42,627 - main - INFO - Logging initialized at INFO level
+2026-01-19 03:20:42,723 - main - INFO - Feelio Therapist initialized with 'Friendly Therapist' Persona
+2026-01-19 03:21:16,638 - main - INFO - Logging initialized at INFO level
+2026-01-19 03:21:16,773 - main - INFO - Feelio Therapist initialized with 'Friendly Therapist' Persona
+2026-01-19 03:21:57,980 - main - INFO - Response generated (168 chars)
+2026-01-19 03:23:18,211 - main - INFO - Response generated (178 chars)
